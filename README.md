@@ -10,4 +10,4 @@ No! This is a game that appeals to all skill levels and anyone can participate r
 
 **What do I need to do to get started?**
 
-Visit http://wsystemsc3.hopto.org:80000 to get started.
+Visit http://systemsc3.hopto.org:80000 to get started.
